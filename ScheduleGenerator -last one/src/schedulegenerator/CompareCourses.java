@@ -3,6 +3,8 @@ package schedulegenerator;
 import java.util.ArrayList;
 import java.util.List;
 
+// this class for finding confliction but it dose NOT work 
+
 public class CompareCourses {
 
     public void confliction(List<Course> a, List<Course> b) {
